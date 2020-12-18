@@ -1,0 +1,9 @@
+h1, h2 {
+  font-family: Lato;
+}
+.card {
+    background-image: url(https://www.sauspiel.de/images/redesign/cards/by/g3@2x.png);
+    background-size: 480px 408px;
+    width: 60px;
+    height: 102px;
+}
